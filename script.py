@@ -18,3 +18,9 @@ print("Hello,", name) """
 # I am adding more stuff
 x = 1
 print(f"the variable is {x}")
+
+# more stuff
+
+x = 2
+print(f"{x}")
+

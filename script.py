@@ -12,6 +12,9 @@ def greet(who_to_greet):
 
 print(greet("Showvik"))
 
-name = input("Your Name? ")
-print("Hello,", name)
+""" name = input("Your Name? ")
+print("Hello,", name) """
 
+# I am adding more stuff
+x = 1
+print(f"the variable is {x}")
